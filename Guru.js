@@ -58,8 +58,8 @@ import readline from 'readline'
 dotenv.config()
 
 async function main() {
-  const txt = process.env.SESSION_ID 
-GuruBot~7rw2xpKW
+  const txt = process.env.SESSION_ID:GuruBot~7rw2xpKW
+
   if (!txt) {
     console.error('Environment variable not found.')
     return
