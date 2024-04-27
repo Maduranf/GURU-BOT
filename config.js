@@ -53,10 +53,10 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ 𝕬𝕽𝖀𝕹-ʙᴏᴛ'
+global.botname = '𝖍𝖆𝖐𝖎𝖓𝖌 𝕬𝕽𝖀𝕹-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
-global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
+global.packname = '𝖒𝖆𝖉𝖚𝖗𝖆𝖓𝖌𝖆'
+global.author = '𝖒𝖆𝖉𝖚𝖗𝖆𝖓𝖌𝖖'
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
 global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
